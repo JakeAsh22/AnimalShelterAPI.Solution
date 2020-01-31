@@ -1,8 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using AnimalShelterAPI.Solution.Models;
+using Microsoft.EntityFrameworkCore;
+
+
 
 namespace AnimalShelterAPI.Solution.Controllers
 {
