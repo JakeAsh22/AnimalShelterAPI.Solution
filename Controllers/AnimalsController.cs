@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using AnimalShelterAPI.Solution.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CretaceousPark.Controllers
+namespace AnimalShelterAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
